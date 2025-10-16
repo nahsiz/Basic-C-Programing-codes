@@ -11,7 +11,7 @@ scanf("%f",& a);
 printf("Enter value of b : ");
 scanf("%f",& b);
 
-perimeter = 2*(a+b);
+perimeter = 2*(a+b); //Formula
 
 printf("The perimeter area is : %.3f",perimeter);
 
